@@ -1,0 +1,14 @@
+[34m[INFO][0;39m - [2021-05-14 10:46:02,832] - [akka.event.slf4j.Slf4jLogger] Slf4jLogger started
+[31m[WARN][0;39m - [2021-05-14 10:46:02,968] - [slick.basic.DatabaseConfig] Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+[34m[INFO][0;39m - [2021-05-14 10:46:03,120] - [play.api.http.EnabledFilters] Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+
+[34m[INFO][0;39m - [2021-05-14 10:46:03,289] - [play.api.Play] Application started (Dev) (no global state)
+[34m[INFO][0;39m - [2021-05-14 10:46:03,685] - [com.zaxxer.hikari.HikariDataSource] db - Starting...
+[34m[INFO][0;39m - [2021-05-14 10:46:03,747] - [com.zaxxer.hikari.HikariDataSource] db - Start completed.
+[34m[INFO][0;39m - [2021-05-14 10:47:38,186] - [play.api.internal.libs.concurrent.CoordinatedShutdownSupport] Starting synchronous coordinated shutdown with ServerStoppedReason reason and 35000 milliseconds timeout
+[34m[INFO][0;39m - [2021-05-14 10:47:38,189] - [play.core.server.AkkaHttpServer] Stopping Akka HTTP server...
+[34m[INFO][0;39m - [2021-05-14 10:47:38,201] - [play.core.server.AkkaHttpServer] Terminating server binding for /0:0:0:0:0:0:0:0:9000
+[34m[INFO][0;39m - [2021-05-14 10:47:38,229] - [com.zaxxer.hikari.HikariDataSource] db - Shutdown initiated...
+[34m[INFO][0;39m - [2021-05-14 10:47:38,282] - [com.zaxxer.hikari.HikariDataSource] db - Shutdown completed.
+[34m[INFO][0;39m - [2021-05-14 10:47:38,321] - [play.core.server.AkkaHttpServer] Running provided shutdown stop hooks
